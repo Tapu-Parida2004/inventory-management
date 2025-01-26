@@ -27,5 +27,5 @@ This is an inventory management application built with React. This app allows us
 4. npm start
     # or
    yarn start
-5. Just replace `https://github.com/your-username/inventory-management.git` with your actual GitHub repository URL.
+5. `https://github.com/your-username/inventory-management.git` GitHub repository URL.
 
